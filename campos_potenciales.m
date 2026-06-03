@@ -27,7 +27,7 @@ angulos=-pi/2:(pi/180):pi/2; % resolucion angular barrido laser
 
 % Caracteristicas del vehiculo y parametros del metodo
 v=1;            % Velocidad del robot
-D=5;           % Rango del efecto del campo de repulsión de los obstáculos
+D=7;           % Rango del efecto del campo de repulsión de los obstáculos
 alfa=1;           % Coeficiente de la componente de atracción
 beta=200;      % Coeficiente de la componente de repulsión
 
